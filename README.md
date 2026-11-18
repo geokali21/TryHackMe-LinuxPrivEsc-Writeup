@@ -1,0 +1,1 @@
+# TryHackMe-LinuxPrivEsc-Writeup
