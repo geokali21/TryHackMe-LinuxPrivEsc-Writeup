@@ -3,7 +3,7 @@
 > **Room:** [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
 > **Difficulty:** Medium
 > **Category:** Privilege Escalation
-> **Author:** *(your name here)*
+> **Author:** *Geovani*
 
 ## Overview
 
